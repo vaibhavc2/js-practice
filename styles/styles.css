@@ -1,0 +1,44 @@
+* {
+    font-family: 'SF Pro Text', sans-serif;
+}
+
+#click-bulb {
+    padding: 3rem;
+    height: 20rem;
+    width: 20rem;
+    margin: 3rem;
+    border: 1px solid rgb(0, 0, 0) !important;
+    border-radius: 100%;
+    background-color: gray;
+    font-size: 2rem;
+}
+
+.glowing-bulb {
+    padding: 3rem;
+    height: 20rem;
+    width: 20rem;
+    margin: 3rem;
+    border: 1px solid rgb(0, 0, 0) !important;
+    border-radius: 100%;
+    background-color: gray;
+    font-size: 2rem;
+}
+
+.bulb {
+    background-color: rgb(206, 25, 25) !important;
+    color: white;
+}
+
+#joke {
+    display: block;
+    width: 40vw;
+    margin: 1rem auto;
+    border-width: 0.1rem;
+    border-color: black;
+    border-style: solid;
+}
+
+#date {
+    font-size: x-large;
+    margin: 2rem;
+}
